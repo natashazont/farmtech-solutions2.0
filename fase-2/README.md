@@ -108,8 +108,7 @@ Envie `SELFTEST` no Wokwi: são 19 casos da função real de decisão, incluindo
 
 ## Vídeo
 
-**Pendente de gravação e publicação pelo grupo:** inserir aqui o link real do YouTube não listado, com duração máxima de cinco minutos. Roteiro: [VIDEO_GUIDE.md](VIDEO_GUIDE.md).
-
+**Link Vídeo:** https://youtu.be/0qslmKcAnKE
 ## Referências consultadas
 
 - [Projeto Wokwi do grupo](https://wokwi.com/projects/476105970700739585)
